@@ -1,0 +1,12 @@
+.heading {
+    color: #7303c0;
+    font-size: 100px;
+    background-color:#ec38bc;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.para {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: -50px;
+}
